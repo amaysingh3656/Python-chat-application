@@ -1,5 +1,4 @@
-# Program to accept client request
-# Author @inforkgodara
+
 
 import socket
 
