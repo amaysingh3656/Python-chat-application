@@ -1,5 +1,4 @@
-# Program to send request to the server
-# Author @inforkgodara
+
 
 import socket
 
